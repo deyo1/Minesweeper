@@ -18,7 +18,7 @@ function App() {
 
     if (height < 1) height = 1;
     if (width < 1) width = 1;
-    if (numOfMines > height * width) numOfMines = height * width;
+    if (numOfMines > height * width) numOfMines = height * width ;
 
     let board = []
 
@@ -37,7 +37,7 @@ function App() {
     while (mines.size < numOfMines) {
       let x = Math.floor(Math.random() * height);
       let y = Math.floor(Math.random() * width);
-      mines.add(x + '' + y);
+      mines.add(x + ',' + y);
       board[x][y].isMine = true;
     }
     return board;
