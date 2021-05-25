@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Minesweeper/static/css/main.88fff453.chunk.css",
+    "main.js": "/Minesweeper/static/js/main.8c36eb91.chunk.js",
+    "main.js.map": "/Minesweeper/static/js/main.8c36eb91.chunk.js.map",
+    "runtime-main.js": "/Minesweeper/static/js/runtime-main.a7594e0f.js",
+    "runtime-main.js.map": "/Minesweeper/static/js/runtime-main.a7594e0f.js.map",
+    "static/js/2.03d8369c.chunk.js": "/Minesweeper/static/js/2.03d8369c.chunk.js",
+    "static/js/2.03d8369c.chunk.js.map": "/Minesweeper/static/js/2.03d8369c.chunk.js.map",
+    "static/js/3.9d85062b.chunk.js": "/Minesweeper/static/js/3.9d85062b.chunk.js",
+    "static/js/3.9d85062b.chunk.js.map": "/Minesweeper/static/js/3.9d85062b.chunk.js.map",
+    "index.html": "/Minesweeper/index.html",
+    "static/css/main.88fff453.chunk.css.map": "/Minesweeper/static/css/main.88fff453.chunk.css.map",
+    "static/js/2.03d8369c.chunk.js.LICENSE.txt": "/Minesweeper/static/js/2.03d8369c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7594e0f.js",
+    "static/js/2.03d8369c.chunk.js",
+    "static/css/main.88fff453.chunk.css",
+    "static/js/main.8c36eb91.chunk.js"
+  ]
+}
